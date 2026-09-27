@@ -1,0 +1,11 @@
+{
+  "project": "MessMind",
+  "version": "0.1.0",
+  "total_days": 14,
+  "last_completed_day": 1,
+  "next_day": 2,
+  "last_completed_date": "2026-09-26",
+  "current_deliverable": "Validated meal ledger and dashboard",
+  "next_deliverable": "Correct and delete meal records",
+  "forecasting_available": false
+}
