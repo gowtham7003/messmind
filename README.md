@@ -1,5 +1,7 @@
 # 🌱 MessMind
 
+![MessMind project banner](assets/messmind-banner.png)
+
 **A Python project for reducing hostel meal surplus without hiding unmet demand.**
 
 MessMind starts with a usable meal ledger and grows into an explainable demand-planning application through fourteen daily milestones.
